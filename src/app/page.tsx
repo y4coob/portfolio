@@ -1,8 +1,8 @@
 'use client'
 
 import { useState, useEffect, useRef } from 'react'
-import { motion, useScroll, useTransform, useSpring } from 'framer-motion'
-import { Github, ChevronDown, Code, BookOpen, Trophy, Briefcase, Database, Wrench, MessageSquare, ShoppingCart, BarChart, CheckSquare, Cloud, DollarSign } from 'lucide-react'
+import { motion, useScroll, useSpring } from 'framer-motion'
+import { Github, ChevronDown, Code, BookOpen, Trophy, Database, Wrench, DollarSign, ShoppingCart } from 'lucide-react'
 import { Button } from "../components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle, CardFooter } from "../components/ui/card"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "../components/ui/tabs"
@@ -124,11 +124,11 @@ export default function Home() {
                 I am a passionate student at Technical University of Munich (TUM), currently pursuing my first semester in Information Systems. My academic journey began with 4 semesters of Computer Science at TUM, which laid a strong foundation for my current studies.
               </p>
               <p className="text-gray-700 mb-4 text-lg">
-                My enthusiasm lies in developing innovative solutions and exploring the fascinating intersection of technology and business. I'm constantly learning and expanding my skill set to stay at the forefront of the rapidly evolving tech landscape.
+                My enthusiasm lies in developing innovative solutions and exploring the fascinating intersection of technology and business. I&apos;m constantly learning and expanding my skill set to stay at the forefront of the rapidly evolving tech landscape.
               </p>
 
               <p className="text-gray-700 text-lg">
-                When I'm not coding or studying, you can find me exploring new technologies, contributing to open-source projects, or engaging in tech meetups and hackathons. I believe in the power of technology to solve real-world problems and am excited to be part of this dynamic field.
+                When I&apos;m not coding or studying, you can find me exploring new technologies, contributing to open-source projects, or engaging in tech meetups and hackathons. I believe in the power of technology to solve real-world problems and am excited to be part of this dynamic field.
               </p>
             </div>
           </motion.div>
