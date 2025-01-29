@@ -27,7 +27,7 @@ export default function Home() {
     setMounted(true)
     const handleScroll = () => {
       const scrollPosition = window.scrollY + 100 // Offset to account for fixed header
-      const windowHeight = window.innerHeight
+      
       const sectionElements = sections.map((section) => document.getElementById(section.toLowerCase()))
 
       sectionElements.forEach((element, index) => {

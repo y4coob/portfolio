@@ -1,4 +1,4 @@
-import { Mail, Github, Instagram, MapPin, Linkedin } from "lucide-react"
+import { Mail, Github,  MapPin, Linkedin } from "lucide-react"
 import Link from "next/link"
 
 export default function HeroSection() {

@@ -1,5 +1,5 @@
 "use client"
-import { useMotionValueEvent, useScroll, useTransform, motion } from "framer-motion"
+import {  useScroll, useTransform, motion } from "framer-motion"
 import type React from "react"
 import { useEffect, useRef, useState } from "react"
 
