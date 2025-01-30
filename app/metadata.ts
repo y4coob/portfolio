@@ -1,6 +1,6 @@
 export const siteConfig = {
-  title: "Yacoob Mohoboob - Portfolio",
-  description: "Software Engineer & Developer specializing in full-stack development, algorithmic trading, and information systems.",
+  title: "Yacoob Mohoboob",
+  description: "Software Engineer & Developer specializing in full-stack development, and information systems.",
   keywords: ["Software Engineer", "Full Stack Developer", "Python", "TypeScript", "Trading Systems"],
   authors: [{
     name: "Yacoob Mohoboob",

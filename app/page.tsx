@@ -139,7 +139,7 @@ export default function Home() {
             <p className="text-gray-300 text-sm md:text-base font-medium">
               Developed Website and UI for a Software Agency{" "}
               <a
-                href="https://siliconflow.de"
+                href="https://www.siliconflow.de"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 underline font-semibold"
